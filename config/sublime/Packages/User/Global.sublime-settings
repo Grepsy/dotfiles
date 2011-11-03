@@ -1,0 +1,19 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeBrackets"
+	],
+	"ignored_words":
+	[
+		"valideert"
+	],
+	"new_window_settings":
+	{
+		"show_minimap": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"scroll_speed": 0
+}
